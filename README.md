@@ -6,10 +6,11 @@ Dit is een programma gemaakt voor informatica. Het programma automatiseert het b
 ## Zelf uitvoeren
 
 Je kan het programma zelf testen op je eigen computer. Dit kan met het volgende commando:
-```console
+```sh
 python3 main.py
 ```
-of ```console
+of 
+```sh
 python3 main.py
 ```
 
