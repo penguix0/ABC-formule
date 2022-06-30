@@ -21,4 +21,7 @@ Wanneer het programma opstart, moet je drie waardes invullen:
 * <code>b</code>
 * <code>c</code>
 
-Het programma rekent vervolgens zelf de discriminant uit en geeft indien mogelijk de <code>x1</code> en <code>x2</code> waardes terug.
+Het programma rekent vervolgens zelf de discriminant uit en geeft indien mogelijk de <code>x1</code> en <code>x2</code> waardes terug. Vervolgens start het programma automatisch opnieuw. Om het programma te stoppen druk je <code>CTRL-C</code> in.
+
+Hier is een voorbeeld van hoe het programma werkt:
+![uitvoering](./uitvoering.gif)
