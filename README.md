@@ -16,9 +16,9 @@ python main.py
 
 Als je python niet geïnstalleerd hebt, kan je [deze handleiding](https://nl.wikibooks.org/wiki/Programmeren_in_Python/Installatie) volgen.
 
-Wanneer het pogramma opstart, moet je drie waardes invullen:
+Wanneer het programma opstart, moet je drie waardes invullen:
 * <code>a</code>
 * <code>b</code>
 * <code>c</code>
 
-Het programma rekent vervolgens zelf de discriminant uit en geeft indien mogelijk de x1 en x2 waardes terug.
+Het programma rekent vervolgens zelf de discriminant uit en geeft indien mogelijk de <code>x1</code> en <code>x2</code> waardes terug.
